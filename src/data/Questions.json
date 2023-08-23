@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.britannica.com/57/236357-131-F269E70A/Hello-in-Spanish.jpg",
+        "options": [
+            "Portuguese",
+            "Spanish",
+            "Tamil",
+            "Greek"
+        ],
+        "answer": "Spanish"
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.britannica.com/59/236359-131-8D3F81DA/Hello-in-German.jpg",
+        "options": [
+            "Finnish",
+            "Tagalog",
+            "German",
+            "Dutch"
+        ],
+        "answer": "German"
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.britannica.com/55/236355-131-0874ABCC/Hello-in-Italian.jpg",
+        "options": [
+            "Russian",
+            "Turkish",
+            "Italian",
+            "Portuguese"
+        ],
+        "answer": "Italian"
+    },
+    {
+        "id": 4,
+        "image": "https://cdn.britannica.com/56/236356-131-BAEE72FF/Hello-in-Japanese.jpg",
+        "options": [
+            "Japanese",
+            "Turkish",
+            "Arabic",
+            "Polish"
+        ],
+        "answer": "Japanese"
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.britannica.com/53/236353-131-720F6C64/Hello-in-French.jpg",
+        "options": [
+            "French",
+            "Bengali",
+            "Hungarian",
+            "Dutch"
+        ],
+        "answer": "French"
+    },
+    {
+        "id": 6,
+        "image": "https://cdn.britannica.com/66/236366-131-68E4F516/Hello-in-Thai.jpg",
+        "options": [
+            "Czech",
+            "Icelandic",
+            "Persian",
+            "Thai"
+        ],
+        "answer": "Czech"
+    }
+]
